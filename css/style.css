@@ -144,3 +144,9 @@ footer p {
 #section-galeria h2 {
     padding: 20px;
 }
+
+#voltar-topo {
+    position: fixed;
+    bottom: 5px;
+    right: 50px;
+}
